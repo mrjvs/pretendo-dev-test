@@ -1,0 +1,12 @@
+name: "pretendo-dev-juxtaposition"
+
+services:
+  redis-juxt:
+    image: redis:7-alpine
+    restart: unless-stopped
+  # TODO add juxt
+  # TODO add miiverse-api
+
+networks:
+  pretendo:
+    external: true

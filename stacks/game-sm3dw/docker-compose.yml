@@ -1,0 +1,8 @@
+name: "pretendo-dev-game-sm3dw"
+
+services:
+  # TODO add game
+
+networks:
+  pretendo:
+    external: true

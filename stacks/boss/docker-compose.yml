@@ -1,0 +1,8 @@
+name: "pretendo-dev-boss"
+
+services:
+  # TODO add BOSS
+
+networks:
+  pretendo:
+    external: true

@@ -3,7 +3,7 @@
 Pretendo is quite complex to setup locally, this repository exists to make this as easy as a few steps.
 
 > [!IMPORTANT]
-> This codebase cannot be used for hosting as it is highly specialized for development. Using it in production can pose security risks.
+> This codebase cannot be used for hosting as it is highly specialized for development. Using it in production will not work and will also be a security risk.
 
 ## How to use
 
@@ -24,20 +24,6 @@ Pretendo is quite complex to setup locally, this repository exists to make this 
    - `Register an account` -- If you need a PNID to test with, run this step
    - `Connect a 3DS` -- Need to connect 3DS hardware to this stack, run this step
    - `Connect a WiiU` -- Need to connect WiiU hardware to this stack, run this step
-
-## Todos
-- Add hardcoded certificate for mitmproxy - have a script to regenerate it
-- Add followup: `Connect a 3DS`
-  - Have instructions on how to use the patches
-  - Have instructions on how to connect to mitmproxy
-  - Precompiled patches for 3DS, using hardcoded cert. Have a script to recompile
-- Add followup: `Connect a WiiU`
-  - Have instructions on how to use the patches
-  - Have instructions on how to connect to mitmproxy
-  - Precompiled patches for WiiU, using hardcoded cert. Have a script to recompile
-- Add followup: `Register an account`
-  - Make a script to create an account
-- Script: Database seeding - add a bunch of seed data for testing purposes
 
 ---
 

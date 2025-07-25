@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500301001600A,000500301001610A,000500301001620A
+name = Development mode
+path = "Pretendo/Development mode"
+description = Redirects traffic to Pretendo development stack.
+version = 7
